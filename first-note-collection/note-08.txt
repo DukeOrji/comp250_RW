@@ -1,0 +1,22 @@
+Identifier: 08
+
+Title: Outsourcing Can Remove Opportunities for Original Ideas
+
+Quotation:
+“you reduce the number of opportunities to have your best ideas.”
+
+Source:
+“Often helpful, sometimes bad, always dangerous”
+The Economist, under the Free Exchange section
+
+Point Locator:
+p. 1
+
+Commentary:
+the quote highlights another major issue reliance on AI assistants pose, and its not just limited to incorrect information. Even when an AI system produces decently accurate outputs, relying on it too heavily can change how the user encounters obstacles/problems. The Economist claims that research exposes researchers to contradictions and interpretations that can lead to original ideas. if an AI system solely facilitates the whole research process, the user may receive a cleaner result but have fewer opportunities to make unexpected connections, highlighting the distinction between productivity and intellectual development. This aligns with the present note-collection assignment, taking collective notes promotes engagement with source material while referencing previously taken notes, which can improve critical thinking and help create a mental model of the topic.
+
+Keywords:
+Critical thinking
+Intellectual development
+Research process
+Note-taking

@@ -1,0 +1,23 @@
+Identifier: 05
+
+Title: Research Has Limits Without Primary Evidence
+
+Quotation:
+“Deep Research is unable to conduct primary research”
+
+Source:
+“Often helpful, sometimes bad, always dangerous”
+The Economist, under the Free Exchange section
+
+Point Locator:
+p. 1
+
+Commentary:
+This quote highlights another major limitation of AI assistants, the same limitation that separates an AI research assistant from a human researcher who can directly gather new information and evidence. The Economist gives some example, conducting polls or observing the body language of a chief executive, jobs that need interaction with the physical rather than simply processing information that already exists. This distinction is important, research is not always about finding and summarizing research papers and other sources, it can also require making observations, interacting with people, creating new data. An Ai assistant that only generates responses based on the available information or database may be powerful at synthesis while remaining reliant on human researchers for the modification/update of said database. This highlights the difference between retrieval augmented generation (RAG) and Knowledge creation. The passage connects to the NYT article, both sources challenge the idea that increasingly capable AI systems can simply replace human judgment.
+
+
+Keywords:
+generation
+research 
+AI limitations
+evidence

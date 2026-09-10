@@ -1,0 +1,23 @@
+Identifier: 03
+
+Title: Reliability Matters Most When Stakes Are High
+
+Quotation:
+“it is a serious issue for anyone using the technology with court documents, medical information or sensitive business data.”
+
+Source:
+“A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful”
+The New York Times by Cade Metz and Karen Weise
+
+Point Locator:
+p. 4
+
+Commentary:
+this quote highlights one of the most discussed consequential issues of AI, it is AI errors doesn't have the same intensity of consequences in every situation. An incorrect response in a casual conversation may be irrelevant or inconvenient, but an incorrect diagnosis involving medical information, or an incorrect judgment in legal affairs or sensitive business information can have serious consequences. Therefore evaluating the reliability of an AI system requires more than whether it is usually accurate. The passage shifts the discussion from general AI accuracy/proficiency towards risk and context. This idea connects with the sign-language paper because a system intended for assistive communication also needs to be evaluated in terms of the conditions in which its users will rely on it.
+
+
+Keywords:
+AI reliability
+risk
+evaluating
+intensity

@@ -1,0 +1,22 @@
+Identifier: 04
+
+Title: Understanding the Systems We Build
+
+Quotation:
+“We still don’t know how these models work exactly.”
+
+Source:
+“A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful”
+The New York Times by Cade Metz and Karen Weise
+
+Point Locator:
+p. 7
+
+Commentary:
+The article describes the undefined behavior from AI models, and researchers attempting to trace model behavior back to training data, while acknowledging the scale and distinct complexity of the training process enabling the unexplained difficulty in fully understanding the propagation behind this process. There is a difference between understanding a system and merely observing that it performs well on benchmarks. If developers cannot fully explain why a model generates an output, identifying the cause of an unexpected/harmful behavior can prove to be difficult. This issue relates to other sources since both practical AI software and AI research tools depend on users relying on systems with undiscovered internal processes, which may be difficult to inspect or debug.
+
+Keywords:
+interpretability
+AI systems
+machine learning
+uncertainty

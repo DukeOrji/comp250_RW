@@ -1,0 +1,23 @@
+Identifier: 10
+
+Title: Accessibility Depends on Deployment
+
+Quotation:
+“operates efficiently on standard CPU based machines without requiring specialized hardware.”
+
+Source:
+“AI-Powered Real-Time Sign Language Translator Using MediaPipe and Deep Learning”
+International Journal of Engineering Research & Technology (IJERT)
+
+Point Locator:
+p. 1 "Abstract"
+
+Commentary:
+This quote showcases both the training and evaluation process of the classification models. Focusing on accuracy alone can miss how useful a model really ends up being. A system might test fine but still not work well in practice if it needs expensive hardware that most people do not have access to. The sign language project tried to run on regular CPU machines which makes sense if the goal is to keep it open to more users. Still it seems worth checking the reported results and limits they listed because things like lighting or different signing styles can change how it performs. I think the bigger takeaway is that these tools need to be judged in the actual places where people would use them not just by their scores or design choices. That part connects with the reliability points in the NYT article since dependability only matters when the system is in the setting where someone relies on it.
+
+
+Keywords:
+Model evaluation
+Accessibility
+Reliability
+Real-world performance

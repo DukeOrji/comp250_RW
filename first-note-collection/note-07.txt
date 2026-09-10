@@ -1,0 +1,23 @@
+Identifier: 07
+
+Title: Research as Thinking
+
+Quotation:
+“For many jobs, researching is thinking: noticing contradictions and gaps in the conventional wisdom.”
+
+Source:
+“Often helpful, sometimes bad, always dangerous”
+The Economist, under the Free Exchange section
+
+Point Locator:
+p. 1
+
+Commentary:
+This quote argues against research being a preliminary step that can be made an efficient tool. the article proposes that the process of research in itself can enable the creation of ideas since the researcher encounters contradictions, weaknesses, and missing information in accepted literature/explanations. If an AI model completely facilitates an entire research process, the human researcher may save time but lose some of the intellectual value that makes research productive. This is more important for students because research assignments produce an answer while teaching students how to recognize, evaluate and implement evidence. This connects with this present assignment, creating individual research notes forces researchers to identify connections rather than simply accepting a compressed summary.
+
+
+Keywords:
+contradictions
+critical thinking
+intellectual value
+individual research

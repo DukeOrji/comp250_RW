@@ -1,0 +1,23 @@
+Identifier: 09
+
+Title: Translating Human Gestures into Features
+
+Quotation:
+“Each detected hand is represented by twenty one landmark points, and each landmark contains three spatial coordinates.”
+
+Source:
+“AI-Powered Real-Time Sign Language Translator Using MediaPipe and Deep Learning”
+International Journal of Engineering Research & Technology (IJERT)
+
+Point Locator:
+p. 2, "Hand detection and landmark".
+
+Commentary:
+The passage talks about turning a gesture into numbers so a machine learning model can handle it. Instead of feeding the actual meaning straight in they use points on the hand as coordinates. That turns physical motion into features the system can classify. It keeps things efficient for the computer but some details probably get left out along the way. The paper later mentions adding facial recognition and better sequence models which suggests the hand points alone are not enough.This shows a bigger issue in AI work. Developers have to pick what counts as data from the real world before any prediction happens. Some parts feel straightforward but others feel like they could be handled differently. It is hard to know exactly what gets kept or dropped in the process.
+
+
+Keywords:
+Feature extraction
+Hand landmarks
+Data representation
+Information loss

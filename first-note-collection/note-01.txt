@@ -1,0 +1,24 @@
+Identifier: 01
+
+Title: Probability Is Not Truth
+
+Quotation:
+“They do not and cannot decide what is true and what is false.”
+
+Source:
+“A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful”
+The New York Times by Cade Metz and Karen Weise
+
+Point Locator:
+p. 3
+
+Commentary:
+This quote highlights a very viable view of the limitations of artificial intelligence, and the distinction between generating an answer and confirming the factual nature of that answer. The article proposes that current AI systems, as of the time this was published, heavily rely on mathematical probabilities to produce responses rather than including a set of rules for determining truth/facts. That differentiates an AI's response from a verified fact. A response can be confident and grammatically correct while still being incorrect due to the system's algorithmic generation, basically generating what is statistically likely to be an appropriate response for whichever prompt.
+
+This passage also highlights a broader issue: the need for a human representative to "proofread" the AI's output.
+
+Keywords:
+artificial intelligence
+truth
+probability
+reliability

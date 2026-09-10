@@ -1,0 +1,24 @@
+Identifier: 02
+
+Title: More Capability, More Errors
+
+Quotation:
+“The newest and most powerful technologies so-called reasoning systems from
+companies like OpenAI, Google and the Chinese start-up DeepSeek are
+generating more errors, not fewer”
+
+Source:
+“A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful”
+The New York Times by Cade Metz and Karen Weise
+
+Point Locator:
+p. 3
+
+Commentary:
+this quote challenges the assumption that newer/improved AI models would perform substantially better in every aspect of generation, although th earticle shows that newer models have improved in areas like mathematics and logical simulations while producing higher hallucination rates on some factual benchmarks. This bottleneck is essential to pay attention to because people may naturally associate greater reasoning capability with greater reliability, but this article shows that is not the case at all, AI development is not a simple progression where every new model universally surpasses previous models in every aspect, different abilities can improve at different rates due to computation tradeoffs or data limitations. this point connects to the signlanguage paper, the authors experience fluctuation in capabilities while evaluating different generative models on the same task.
+
+Keywords:
+AI development
+reasoning models
+reliability
+hallucinations

@@ -1,0 +1,23 @@
+Identifier: 06
+
+Title: The Consensus Problem
+
+Quotation:
+“those using Deep Research as an assistant risk learning about the consensus view, not that of the cognoscenti.”
+
+Source:
+“Often helpful, sometimes bad, always dangerous”
+The Economist, under the Free Exchange section
+
+Point Locator:
+p. 1
+
+Commentary:
+
+this quote highlights another issue in using AI for research. While a system can be useful at finding information, studies have shown the same models steering users towards already founded ideas and solutions. The Economist proposes that Deep Research models may reproduce interpretations of ideas even when established institutions challenge them. this is important because research requires more than summarizing sources but also finding minority interpretations, exceptions, and evidence that challenges conventional wisdom. This passage stems the question can an AI Research assistant prove to be relevant in exposing the user to alterior or competing interpretations. This aligns with the NYT's discussion of AI reliability, both sources suggest that being overreliant on AI for research can limit both the accuracy and breadth of the information the user receives.
+
+Keywords:
+AI reliability 
+conventional wisdom
+competing interpretations
+Deep Research
