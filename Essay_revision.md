@@ -1,8 +1,10 @@
 ---
 title: Mexico: The Perfect Dictatorship
 author: Duke Ndy-Orji
+abstract: pass
 ---
 
+# Introduction
 The case of Mexico under the institutional revolutionary party shows how political systems, culture and institutions interact and shape both government and society over time.
 My presentation specifically focuses on how the PRI functioned as a "perfect dictatorship," where elections were constantly manipulated to maintain power.
 These aspects of my presentation connect with two important topics in the textbook: authoritarian regimes (CH 8) and democratic institutions (CH 10).
@@ -72,11 +74,11 @@ The PRI combines aspects from both regimes, establishing electoral institutions 
 This means simply introducing democratic institutions wouldn't automatically guarantee a democratic transition or outcome.
 Rather this case shows that institutions can be shaped and manipulated by those in power, in turn making democratic transitions often gradual and incomplete, with elements of the previous regime continuing to influence political behavior and governance.
 
+# Conclusion
 To conclude, the PRI reign over Mexico provides us with a strong example of how authoritarian regimes manage authority in a state, and how authoritarian regimes transition into democratic regimes.
 I drew concepts and ideas form both chapter 8 and 10 to illustrate how the PRI maintained power through management of its winning coalition, control and patronage, and suggest how institutions like elections and authoritative structures shaped both the political system that followed the transition to democracy in Mexico.
 
-Work Cited
-
+# Bibliography
 Clark, William Roberts, Matt Golder, and Sona N. Golder. *Foundations of Comparative Politics*.
 
 Wikipedia contributors. (n.d.). *Institutional Revolutionary Party*. In *Wikipedia, The Free Encyclopedia*. <https://en.wikipedia.org/wiki/Institutional_Revolutionary_Party?utm>
