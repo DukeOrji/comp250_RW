@@ -1,7 +1,8 @@
 ---
 title: Mexico - The Perfect Dictatorship
 author: Duke Ndy-Orji
-abstract: this essay focuses on how the PRI continually held authority in Mexico for over 70 years through authoritarian instituions, patronage, elections and manipulating its winning coalition. It examines how the PRI utilized political loop holes and institutions to maintain stability while mitigating meaningful political competition.This essay also highlights how those same political institutions changed over time and contributed to Mexico's democratic takeover. Although the PRI lost presidency in 2000, the political institutions and regulations established during its rule continued to influence Mexico. Overal this case highlights how long lasting instituions can be shaped by those in power and how authoritarian and democratic systems can overlap.
+abstract: |
+    this essay focuses on how the PRI continually held authority in Mexico for over 70 years through authoritarian instituions, patronage, elections and manipulating its winning coalition. It examines how the PRI utilized political loop holes and institutions to maintain stability while mitigating meaningful political competition.This essay also highlights how those same political institutions changed over time and contributed to Mexico's democratic takeover. Although the PRI lost presidency in 2000, the political institutions and regulations established during its rule continued to influence Mexico. Overal this case highlights how long lasting instituions can be shaped by those in power and how authoritarian and democratic systems can overlap.
 ---
 
 # Introduction
