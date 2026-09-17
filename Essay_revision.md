@@ -1,7 +1,7 @@
 ---
-title: Mexico: The Perfect Dictatorship
+title: Mexico - The Perfect Dictatorship
 author: Duke Ndy-Orji
-abstract: pass
+abstract: this essay focuses on how the PRI continually held authority in Mexico for over 70 years through authoritarian instituions, patronage, elections and manipulating its winning coalition. It examines how the PRI utilized political loop holes and institutions to maintain stability while mitigating meaningful political competition.This essay also highlights how those same political institutions changed over time and contributed to Mexico's democratic takeover. Although the PRI lost presidency in 2000, the political institutions and regulations established during its rule continued to influence Mexico. Overal this case highlights how long lasting instituions can be shaped by those in power and how authoritarian and democratic systems can overlap.
 ---
 
 # Introduction
@@ -62,7 +62,7 @@ Its clear in Mexico that political behavior was shaped by political institutions
 These issues can be attributed to the era of the PRI when unfair practices like corruption and favoritism in government became acceptable through actions like centralization and patronage.
 This highlights the persistence of political culture despite changes in formal institutions.
 
-The PRI built electoral institutions that eventually enabled democratic competition, I believe the conflict between democratic and authoritarian regimes in Mexico suggests that authoritarian systems often establish the foundation for possible democratic systems, while possibly leaving behind lasting oppressive structures/challenges.
+The PRI built electoral institutions that eventually enabled democratic competition, I believe the conflict between democratic and authoritarian regimes in Mexico suggests that authoritarian systems often establish the foundation for possible democratic systems, while possibly leaving behind lasting oppressive structures/challenges.<!--My claim-->
 This highlights the complexity of political development.
 The period between 2012 to 2018 witnessed the rise of the PRI into an influential political position led by Enrique Pena Nieto.
 Even in a democratic system, the PRI was able to regain power, showing that political competition had become more open.
