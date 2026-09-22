@@ -9,10 +9,12 @@ bibliography: cited-items.json
 
 # Introduction
 The case of Mexico under the institutional revolutionary party shows how political systems, culture and institutions interact and shape both government and society over time.
+<!--Context of my argument-->
 My presentation specifically focuses on how the PRI functioned as a "perfect dictatorship," where elections were constantly manipulated to maintain power [@InstitutionalRevolutionaryParty2026].
+Although authoritarian regimes utilize political institutions to maintain stability and order, those same instituiuons might create issues if political competion becomes limited and can continue influencing politics even after the regime is out of seat (authority).
+<!--Problem addressed in my argument-->
 These aspects of my presentation connect with two important topics in the textbook: authoritarian regimes (CH 8) and democratic institutions (CH 10) [@williamsFoundationsComparativePolitics2025].
-There is some evidence that confirms authoritarian regimes manipulate institutions to secure long-term stability, the PRI illustrates this capacity of power [@williamsFoundationsComparativePolitics2025].
-Those same institutions mold the transition to democracy and continuously influence political outcomes even after their rule ends.
+
 
 The PRI regime is a strong example of a part-dominant authoritarian system, it can be categorized as a civilian dictatorship as we discussed in chapter 8 [@williamsFoundationsComparativePolitics2025].
 Distinct from military dictatorships, which is often unstable and are more susceptible to an internal overthrow through a coup d'état.
@@ -81,5 +83,4 @@ Rather this case shows that institutions can be shaped and manipulated by those 
 
 # Conclusion
 To conclude, the PRI reign over Mexico provides us with a strong example of how authoritarian regimes manage authority in a state, and how authoritarian regimes transition into democratic regimes.
-I drew concepts and ideas from both chapter 8 and 10 to illustrate how the PRI maintained power through management of its winning coalition, control and patronage, and suggest how institutions like elections and authoritative structures shaped both the political system that followed the transition to democracy in Mexico.
-
+I drew concepts and ideas from both chapter 8 and 10 to illustrate how the PRI maintained power through management of its winning coalition, control and patronage, while also showing how institutions like elections can change over time and contribute to democratic competition.
