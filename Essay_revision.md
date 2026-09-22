@@ -32,7 +32,7 @@ The problem of authoritarian control, authoritarian regimes often struggle to kn
 In Mexico the PRI controlled media and limited criticism, this made it difficult to gauge real public opinion creating unpredictable social outcomes.
 In the 1980s and 1990s, public frustration increased, and the regime could no longer utilize the same level of control, this highlights how authoritarian regimes can appear stable but are vulnerable to sudden change.
 
-The PRI could maintain loyalty within their winning coalition which includes party elites and key social groups affiliated with the regime, by distributing private goods, such as jobs, favors and political position.
+The PRI could maintain loyalty within their winning coalition which includes party elites and key social groups affiliated with their regime, by distributing private goods, such as jobs, favors and political position.
 This ties to the selectorate theory discussed in chapter 8, which explains how leaders stay in power by securing support from a winning coalition [@williamsFoundationsComparativePolitics2025].
 The PRI's regime was not focused on providing broad public goods but rather keeping its major supporters satisfied.
 
