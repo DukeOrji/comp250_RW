@@ -1,4 +1,5 @@
 ---
+csl: chicago-author-date-16th-edition.csl
 title: Mexico - The Perfect Dictatorship
 author: Duke Ndy-Orji
 abstract: |
