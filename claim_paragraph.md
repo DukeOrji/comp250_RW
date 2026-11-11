@@ -1,0 +1,7 @@
+**Duke Ndy-Orji**
+
+**Claim paragraph | COMP-250**
+
+
+
+Social media platforms have begun to incorporate artificial intelligence into their moderation systems, allowing them to detect and eliminate harmful content at a speed and scale that human moderation alone would not be able to achieve. These automated moderation systems have showcased their effectiveness in reducing the accessibility of harmful content to the public. However, there are still vulnerabilities and limitations in the foundation model responsible for identification and classification. One major concern of automated content moderation is adversarial attacks, where an attacker/ malicious user intentionally manipulate inputs to influence a model's decision, this might enable harmful material to bypass detection. These vulnerabilities create issues like false negatives where harmful content gets categorized as legitimate  and false positives where legitimate content gets categorized as harmful and is restricted from the feed. As the use of AI moderation continues to be increasingly adopted in social media platforms, sole dependence on AI raises questions about its reliability and capacity for making stable and correct decisions. Therefore a social media platform should not be dependent on an AI-based content moderation system alone to enforce its policies. Rather, it should combine automated moderation with human oversight, continuos adversarial testing, and transparency in model decisions. 
