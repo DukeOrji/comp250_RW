@@ -1,0 +1,15 @@
+Identifier: 08
+
+Title: Humans review complicated cases
+
+Quotation:
+“humans review the more nuanced cases” (Weldon 2026).
+
+Source:
+Weldon, David. 2026. “6 types of AI content moderation and how they work.” TechTarget, March 25, 2026. https://www.techtarget.com/enterprise-software/tip/6-types-of-AI-content-moderation-and-how-they-work
+
+
+Commentary:
+this suggests the inclusion fo human moderators complementing automated systems by reviewing ambiguous/complicated cases of content then AI can handle routine moderation cases.
+
+Keywords: Human inclusion, contextual understanding, moderation techniques

@@ -1,0 +1,15 @@
+Identifier: 06
+
+Title: False positives and legitimate expression
+
+Quotation:
+“restrict users’ right to freedom of expression” (Uveges 2024).
+
+
+Source:
+Uveges, Istvan. 2024. “The Social Impact of AI-Based Content Moderation.” Constitutional Discourse, October 28, 2024. https://constitutionaldiscourse.com/the-social-impact-of-ai-based-content-moderation-part-i/
+
+Commentary:
+False positive classification of non-offensive content can deprive people of the opportunity to freely express their views. This issue is particularly worrying when the content connects to politics and society because deletion of such content can hinder debate.
+
+Keywords: censorship, legitimate content, adversarial attacks

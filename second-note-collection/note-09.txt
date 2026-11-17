@@ -1,0 +1,17 @@
+Identifier: 09
+
+Title: Limitations of Automated Moderation
+
+Quotation:
+“offensive or misleading content can still slip through automated systems” (Weldon 2026).
+
+
+Source:
+Weldon, David. 2026. “6 types of AI content moderation and how they work.” TechTarget, March 25, 2026. https://www.techtarget.com/enterprise-software/tip/6-types-of-AI-content-moderation-and-how-they-work
+
+
+Commentary:
+Even when automated moderation is used as the first layer of defense, it can never be assured that all posts with malicious content are filtered out. This gives a chance for the malicious content to slip through and evade moderation altogether, reinforcing the need for continuous evaluation and human intervention.
+
+
+Keywords: Automated moderation, evasion, harmful content,

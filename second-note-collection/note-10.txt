@@ -1,0 +1,15 @@
+Identifier: 10
+
+Title: The Balance Between Speed and Accuracy
+
+Quotation:
+“enables both speed and accuracy” (Weldon 2026).
+
+Source:
+Weldon, David. 2026. “6 types of AI content moderation and how they work.” TechTarget, March 25, 2026. https://www.techtarget.com/enterprise-software/tip/6-types-of-AI-content-moderation-and-how-they-work
+
+
+Commentary:
+Weldon used this article to showcase the benefits that human and AI collaboration pose towards social media content moderation.The machines are able to handle large volume of data fast, while humans can provide additional judgment. This addresses the limitation of relying exclusively on either humans or automated moderation systems.
+
+Keywords: Hybrid moderation, accuracy, human and AI collaboration

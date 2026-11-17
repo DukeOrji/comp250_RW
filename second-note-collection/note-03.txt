@@ -1,0 +1,15 @@
+Identifier: 03
+
+Title: Inclusion of Human Oversight
+
+Quotation:
+“combine automated detection with human expertise” (Xiang et al. 2025).
+
+Source:
+Xiang, Lingyun, Nian Li, Yuling Liu, and Jiayong Hu. 2026. “AI-generated text detection: A comprehensive review of active and passive approaches.” Computers, Materials & Continua. https://www.sciencedirect.com/org/science/article/pii/S1546221826000482
+
+Commentary:
+This suggests that automation systems should not work autonomously when making decisions that need some context to be understood. The inclusion of substantial Human oversight can provide a solution to the limitations that may arise because of using an automated detection system. This helps validate my position on moderation.
+
+
+Keywords: Human oversight, automated detection, model reliability 

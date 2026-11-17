@@ -1,0 +1,14 @@
+Identifier: 07
+
+Title: False Negatives and Harmful content
+
+Quotation:
+“free flow of harmful information” (Uveges 2024).
+
+Source:
+Uveges, Istvan. 2024. “The Social Impact of AI-Based Content Moderation.” Constitutional Discourse, October 28, 2024. https://constitutionaldiscourse.com/the-social-impact-of-ai-based-content-moderation-part-i/
+
+Commentary:
+False negatives generates the opposite problem of false positives. Rather than restricting legitimate expression, it allows harmful content to remain accessible to the public. This illustrates the importance of taking into account both issues in order to improve moderation.
+
+Keywords: False negatives, harmful content, moderation limitations, adversarial attacks

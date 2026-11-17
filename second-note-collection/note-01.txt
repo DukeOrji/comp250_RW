@@ -1,0 +1,15 @@
+Identifier: 01
+
+Title: Adversarial Vulnerabilities like Paraphrasing
+
+Quotation:
+“highly vulnerable to adversarial attacks, particularly paraphrasing” (Xiang et al. 2026).
+
+Source:
+Xiang, Lingyun, Nian Li, Yuling Liu, and Jiayong Hu. 2026. “AI-generated text detection: A comprehensive review of active and passive approaches.” Computers, Materials & Continua. https://www.sciencedirect.com/org/science/article/pii/S1546221826000482
+
+Commentary:
+this highlights a major weakness in AI detection systems. Intentionally modified texts can affect a model's ability to classifiy content accurately even though that same model performs well under normal conditions. This is a significant issue because malicious users/attackers can exploit these kind of weaknesses to allow harmful content to bypass moderation.
+
+
+Keywords: Adversarial attacks, paraphrasing, detection systems.

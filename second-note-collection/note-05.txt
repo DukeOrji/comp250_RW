@@ -1,0 +1,15 @@
+Identifier: 05
+
+Title: Moderation Errors and effects
+
+Quotation:
+“false positive and false negative decisions” (Uveges 2024).
+
+Source:
+Uveges, Istvan. 2024. “The Social Impact of AI-Based Content Moderation.” Constitutional Discourse, October 28, 2024. https://constitutionaldiscourse.com/the-social-impact-of-ai-based-content-moderation-part-i/
+
+Commentary:
+the major types of errors in automated content moderation are false positives which  restrict the free roam of legitimate content and false negatives which allow harmful content to remain accessible. This demonstrates why evaluation beyond performance accuracy is crucial.
+
+
+Keywords: false positives, false negatives, classification errors, model accuracy

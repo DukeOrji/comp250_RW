@@ -1,0 +1,15 @@
+Identifier: 04
+
+Title: The Effects of Social Media Platforms
+
+Quotation:
+“shape and constrain user interactions” (Uveges 2024).
+
+Source:
+Uveges, Istvan. 2024. “The Social Impact of AI-Based Content Moderation.” Constitutional Discourse, October 28, 2024. https://constitutionaldiscourse.com/the-social-impact-of-ai-based-content-moderation-part-i/
+
+Commentary:
+social media platforms are used for more than enabling conversations. social media platforms have an impact on the dialogue that users are be able to contribute in through their moderating activities and choices about what content is harmful or legitimate. so the accuracy of such moderations are truly vital.
+
+
+Keywords: social media platforms, content moderation, freedom of expression.

@@ -1,0 +1,15 @@
+Identifier: 02
+
+Title: Model Limitations in Content Moderation
+
+Quotation:
+“limited generalization across domains or unseen generators” (Xiang et al. 2026).
+
+
+Source:
+Xiang, Lingyun, Nian Li, Yuling Liu, and Jiayong Hu. 2026. “AI-generated text detection: A comprehensive review of active and passive approaches.” Computers, Materials & Continua. https://www.sciencedirect.com/org/science/article/pii/S1546221826000482
+
+Commentary:
+The accuracy of a model's performance on known data cannot be taken to imply that it will perform similarly when dealing with unknown data. This poses a challenge to social media platforms where users keep bringing in new linguistic styles of expression.
+
+Keywords: detection accuracy, machine learning, model vulnerabilitiies
